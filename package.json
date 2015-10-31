@@ -1,0 +1,23 @@
+{
+  "name": "userstory",
+  "version": "1.0.0",
+  "description": "This is a test app, showing the use of mongo db, angular js and node.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "angular",
+    "mongo"
+  ],
+  "author": "Vinay Bhandwekar",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "jsonwebtoken": "^5.4.0",
+    "mongoose": "^4.1.11",
+    "nodemon": "^1.7.1",
+    "socket.io": "^1.3.7"
+  }
+}
